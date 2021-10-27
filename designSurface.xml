@@ -4,6 +4,19 @@
       <map>
         <entry key="..\:/Users/Aiden/IdeaProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/Aiden/IdeaProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.2848731884057971" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/aa_init_splash.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/ab_init_category.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/ac_init_category_item.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/ad_init_marketing.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/ba_login.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/bottom_filter.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/bottom_filter_platform.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/ca_gnb_frame.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cc_gnb_exhibition.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cd_gnb_product.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cz_gnb_header.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/fa_product_list.xml" value="0.39537037037037037" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/fb_product_cell.xml" value="0.39537037037037037" />
       </map>
     </option>
   </component>
