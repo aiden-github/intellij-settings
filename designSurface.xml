@@ -2,6 +2,102 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_868e96_5r.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_black_10r.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_black_5r.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_f3f3f3_5r.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_f6f6f6_10r.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/exhibition_order.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/exhibition_top.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_seekbar_thumb.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_switch_custom_thumb.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_switch_custom_track.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_tag_button.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_tag_button_active.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_tag_button_inactive.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_header_dropdown.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_header_noti.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_header_search.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_home.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_home_active.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_home_inactive.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_product.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_product_active.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_product_inactive.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_schedule.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_schedule_active.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_schedule_inactive.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_settings.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_settings_active.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gnb_settings_inactive.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/gradient_home_banner.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/header_back.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/home_banner_noti.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/home_banner_play.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ic_launcher_background.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_header_close.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_header_options.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_heart_filled.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_heart_unfilled.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_like.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_noti.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_noti_filled.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/info_noti_unfilled.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/labangba.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/labangba_original.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/labangba_question.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/misc_toast_close.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/misc_triangle_toast.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/misc_triangle_white.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/noti_done.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/noti_edit.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/noti_item_close.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/noti_item_labang.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/noti_item_price.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/noti_remove.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product2_bell.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product2_star.xml" value="0.5515625" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product2_truck.xml" value="0.5515625" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product3_bell.xml" value="0.5505208333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product3_bell_fill.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product3_share.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product_like.xml" value="0.5515625" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product_like_active.xml" value="0.5515625" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product_like_inactive.xml" value="0.5515625" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ripple_circle.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ba_login.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ca_gnb_frame.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/df_home_section.xml" value="0.48055555555555557" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/dl_home_exhibition.xml" value="0.33" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ec_schedule_header.xml" value="0.4777777777777778" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ec_schedule_header2.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ed_schedule_labang.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/eh_schedule_labang2.xml" value="0.1" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ei_schedule_labang.xml" value="0.1" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ei_schedule_labang_live.xml" value="0.4166666666666667" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fb_product2_cell.xml" value="0.11044176706827309" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fg_product2_cell_price.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fh_product2_cell_related.xml" value="0.45740740740740743" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fx_product2_cell_image.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fx_product_cell_image.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fz_product2_cell_price.xml" value="0.45740740740740743" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fz_product_cell_price.xml" value="0.11133603238866396" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ha_info.xml" value="0.46944444444444444" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/hb_info.xml" value="0.1" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ia_product.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/id_product_info.xml" value="0.48148148148148145" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ie_product_labang.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/if_product_related.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ja_product_list.xml" value="0.45200698080279234" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/jb_product_item.xml" value="0.4744525547445255" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/js_aill_products.xml" value="0.46944444444444444" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/product3_bell.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and_origin/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and_origin/app/src/main/res/layout/ha_info.xml" value="0.41944444444444445" />
         <entry key="..\:/Users/Aiden/IdeaProjects/ListApp/app/src/main/res/layout/list_holder.xml" value="0.5266666666666666" />
         <entry key="..\:/Users/Aiden/IdeaProjects/ListApp/app/src/main/res/layout/list_holder1.xml" value="0.2921875" />
         <entry key="..\:/Users/Aiden/IdeaProjects/ListApp/app/src/main/res/layout/list_holder2.xml" value="0.2921875" />
@@ -26,7 +122,7 @@
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/bottom_filter.xml" value="0.39537037037037037" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/bottom_filter_platform.xml" value="0.39537037037037037" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/ca_gnb_frame.xml" value="0.5354166666666667" />
-        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.39814814814814814" />
+        <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.4166666666666667" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cb_gnb_schedule2.xml" value="0.29259259259259257" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cc_gnb_exhibition.xml" value="0.39537037037037037" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and/app/src/main/res/layout/cd_gnb_product.xml" value="0.39537037037037037" />
@@ -53,7 +149,6 @@
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and2/app/src/main/res/layout/fragment_tab3.xml" value="0.25" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and2/app/src/main/res/layout/tab_button.xml" value="0.25" />
         <entry key="..\:/Users/Aiden/IdeaProjects/labangba_and_origin/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.35555555555555557" />
-        <entry key="..\:/Users/DEVIDEN/Desktop/intellij/labangba_and/app/src/main/res/layout/ei_schedule_labang.xml" value="0.1" />
       </map>
     </option>
   </component>
