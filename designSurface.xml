@@ -8,6 +8,8 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_black_5r.xml" value="0.538974358974359" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_f3f3f3_5r.xml" value="0.538974358974359" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_f6f6f6_10r.xml" value="0.538974358974359" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/bg_ripple_square.xml" value="0.5425641025641026" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/check_platform.xml" value="0.3648148148148148" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/exhibition_order.xml" value="0.538974358974359" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/exhibition_top.xml" value="0.538974358974359" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/filter_seekbar_thumb.xml" value="0.538974358974359" />
@@ -69,17 +71,21 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product_like_inactive.xml" value="0.5515625" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ripple_circle.xml" value="0.5473958333333333" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ba_login.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/bottom_filter.xml" value="0.48518518518518516" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ca_gnb_frame.xml" value="0.30277777777777776" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.53125" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/df_home_section.xml" value="0.48055555555555557" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/dl_home_exhibition.xml" value="0.33" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/do_pick_item.xml" value="0.4703703703703704" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ec_schedule_header.xml" value="0.4777777777777778" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ec_schedule_header2.xml" value="0.4166666666666667" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ed_schedule_labang.xml" value="0.53125" />
-        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/eh_schedule_labang2.xml" value="0.1" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ee_schedule_product.xml" value="0.4703703703703704" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/eh_schedule_labang2.xml" value="0.4703703703703704" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ei_schedule_labang.xml" value="0.1" />
-        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ei_schedule_labang_live.xml" value="0.4166666666666667" />
-        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fb_product2_cell.xml" value="0.11044176706827309" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ei_schedule_labang_live.xml" value="0.4703703703703704" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fb_product2_cell.xml" value="0.4703703703703704" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fb_product_cell.xml" value="0.4703703703703704" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fg_product2_cell_price.xml" value="0.2942708333333333" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fh_product2_cell_related.xml" value="0.45740740740740743" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/fx_product2_cell_image.xml" value="0.5354166666666667" />
@@ -96,7 +102,15 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/jb_product_item.xml" value="0.4744525547445255" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/js_aill_products.xml" value="0.46944444444444444" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/product3_bell.xml" value="0.5354166666666667" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/vc_noti_item.xml" value="0.4074074074074074" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/yf_search_result_related.xml" value="0.5271794871794871" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/zc_bottom_filter.xml" value="0.29010416666666666" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/zd_bottom_filter_item.xml" value="0.33" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ze_bottom_filter_header.xml" value="0.48518518518518516" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/zf_filter_price_controller.xml" value="0.1" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and_origin/app/src/main/res/layout/bottom_filter.xml" value="0.53125" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and_origin/app/src/main/res/layout/cb_gnb_schedule.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and_origin/app/src/main/res/layout/eb_schedule_cat.xml" value="0.4203703703703704" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and_origin/app/src/main/res/layout/ha_info.xml" value="0.41944444444444445" />
         <entry key="..\:/Users/Aiden/IdeaProjects/ListApp/app/src/main/res/layout/list_holder.xml" value="0.5266666666666666" />
         <entry key="..\:/Users/Aiden/IdeaProjects/ListApp/app/src/main/res/layout/list_holder1.xml" value="0.2921875" />
