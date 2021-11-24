@@ -71,6 +71,8 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product_like_active.xml" value="0.5515625" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/product_like_inactive.xml" value="0.5515625" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ripple_circle.xml" value="0.5473958333333333" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ripple_circle_f3f3f3.xml" value="0.30833333333333335" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ripple_circle_f6f6f6.xml" value="0.3072916666666667" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/schedule_filter.xml" value="0.30833333333333335" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/schedule_filter_active.xml" value="0.5277777777777778" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ba_login.xml" value="0.53125" />
@@ -110,6 +112,7 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/va_noti.xml" value="0.33611111111111114" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/vc_noti_item.xml" value="0.1" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ya_search_main.xml" value="0.4703703703703704" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/yb_search_result.xml" value="0.2921875" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/yf_search_result_related.xml" value="0.5271794871794871" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/zb_toast.xml" value="0.2921875" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/zc_bottom_filter.xml" value="0.29010416666666666" />
