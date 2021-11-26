@@ -75,6 +75,7 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/ripple_circle_f6f6f6.xml" value="0.3072916666666667" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/schedule_filter.xml" value="0.30833333333333335" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/schedule_filter_active.xml" value="0.5277777777777778" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/drawable/selector_f3.xml" value="0.30520833333333336" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ba_login.xml" value="0.53125" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/bottom_filter.xml" value="0.48518518518518516" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/bottom_filter_platform.xml" value="0.2921875" />
@@ -103,7 +104,7 @@
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/hb_info.xml" value="0.2921875" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ia_product.xml" value="0.5348958333333333" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/id_product_info.xml" value="0.48148148148148145" />
-        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ie_product_labang.xml" value="0.53125" />
+        <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ie_product_labang.xml" value="0.5" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/if_product_related.xml" value="0.5" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/ja_product_list.xml" value="0.45200698080279234" />
         <entry key="..\:/Users/Aiden/Desktop/labangba/labangba_and/app/src/main/res/layout/jb_product_item.xml" value="0.4744525547445255" />
