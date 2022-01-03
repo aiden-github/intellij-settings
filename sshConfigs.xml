@@ -10,6 +10,7 @@
       <sshConfig host="52.78.177.92" id="6f87fdf4-da2d-4f84-be91-7a3ded84f732" keyPath="C:\Users\Aiden\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_server" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="labangba_server" />
       </sshConfig>
+      <sshConfig host="3.36.98.88" id="453973a8-b398-4ca6-9077-2c43e9713ca7" keyPath="C:\Users\Aiden\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
