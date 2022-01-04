@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="52.79.186.15" id="60945133-7f2a-4289-89bc-49b183423c5e" keyPath="C:\Users\DEVIDEN\Dropbox (개인용)\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_crawler" nameFormat="CUSTOM" username="ec2-user">
+      <sshConfig host="52.79.186.15" id="60945133-7f2a-4289-89bc-49b183423c5e" keyPath="C:\Users\Aiden\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_crawler" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="labangba_crawler" />
       </sshConfig>
       <sshConfig host="13.124.208.149" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\DEVIDEN\Dropbox (개인용)\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user">
