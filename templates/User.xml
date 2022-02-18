@@ -1,0 +1,8 @@
+<templateSet group="User">
+  <template name="hyeok" value="Log.d(&quot;hyeok&quot;, $message$)" description="Log for hyeok" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
