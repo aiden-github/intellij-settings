@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="labangba" uuid="60cd1304-1bdf-4b87-88a9-0277407430ad">
+    <data-source source="LOCAL" name="cv3" uuid="60cd1304-1bdf-4b87-88a9-0277407430ad">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
