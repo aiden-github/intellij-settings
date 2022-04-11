@@ -10,7 +10,7 @@
       <sshConfig host="52.78.177.92" id="6f87fdf4-da2d-4f84-be91-7a3ded84f732" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_server" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="labangba_server" />
       </sshConfig>
-      <sshConfig host="13.124.208.149" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+      <sshConfig host="15.165.197.231" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_crawler" />
       </sshConfig>
       <sshConfig host="ec2-3-36-98-88.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
