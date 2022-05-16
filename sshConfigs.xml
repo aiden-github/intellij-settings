@@ -19,6 +19,9 @@
       <sshConfig host="3.35.9.96" id="79173407-ad61-4a4d-b127-6d74a114da4f" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_admin_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="laplus_admin_server" />
       </sshConfig>
+      <sshConfig host="130.162.150.144" id="6544eb3d-d331-426c-bce4-082b79388587" keyPath="C:\Users\hyeok\Dropbox\개인\Keys\ssh_key_oci_homemate.key" port="22" customName="_homemate" nameFormat="CUSTOM" username="opc" useOpenSSHConfig="true">
+        <option name="customName" value="_homemate" />
+      </sshConfig>
     </configs>
   </component>
 </application>
