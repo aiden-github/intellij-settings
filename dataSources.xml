@@ -14,5 +14,12 @@
       <jdbc-url>jdbc:mysql://labangba.cumhrjugrw1n.ap-northeast-2.rds.amazonaws.com:3306/laplus</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="homemate2" uuid="7c87d945-f51c-43e2-b4f4-98fcec78402c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://193.122.125.159:5432/homemate</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
