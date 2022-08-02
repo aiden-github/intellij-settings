@@ -21,5 +21,12 @@
       <jdbc-url>jdbc:postgresql://193.122.125.159:5432/homemate</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="labangba(read)" uuid="73fa588d-b4e2-43ac-9279-c1c73aa6326c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://labangba-r1.cumhrjugrw1n.ap-northeast-2.rds.amazonaws.com:3306/labangba</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
