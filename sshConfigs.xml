@@ -1,6 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
+      <sshConfig host="193.122.125.159" id="2fcb269c-5ed1-4cc8-a7e7-cadd2eb079b1" keyPath="C:\Users\hyeok\Dropbox\개인\Project\homemate2\oci_homemate.key" port="22" customName="_homemate" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="_homemate" />
+      </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="3.39.15.38" id="60945133-7f2a-4289-89bc-49b183423c5e" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_crawler" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="labangba_crawler" />
       </sshConfig>
@@ -10,20 +13,17 @@
       <sshConfig host="52.78.177.92" id="6f87fdf4-da2d-4f84-be91-7a3ded84f732" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="labangba_server" />
       </sshConfig>
+      <sshConfig host="3.35.9.96" id="79173407-ad61-4a4d-b127-6d74a114da4f" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_admin_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="laplus_admin_server" />
+      </sshConfig>
+      <sshConfig host="3.36.115.237" id="4ed58ce0-0d60-4cb9-b52c-21161449f36c" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_client_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="laplus_client_server" />
+      </sshConfig>
       <sshConfig host="15.165.197.231" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="sales_crawler" />
       </sshConfig>
       <sshConfig host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_server" />
-      </sshConfig>
-      <sshConfig host="3.35.9.96" id="79173407-ad61-4a4d-b127-6d74a114da4f" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_admin_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
-        <option name="customName" value="laplus_admin_server" />
-      </sshConfig>
-      <sshConfig host="193.122.125.159" id="2fcb269c-5ed1-4cc8-a7e7-cadd2eb079b1" keyPath="C:\Users\hyeok\Dropbox\개인\Project\homemate2\oci_homemate.key" port="22" customName="_homemate" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
-        <option name="customName" value="_homemate" />
-      </sshConfig>
-      <sshConfig host="3.36.115.237" id="4ed58ce0-0d60-4cb9-b52c-21161449f36c" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_client_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
-        <option name="customName" value="laplus_client_server" />
       </sshConfig>
     </configs>
   </component>
