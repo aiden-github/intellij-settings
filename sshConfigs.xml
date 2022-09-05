@@ -31,6 +31,9 @@
       <sshConfig host="3.39.233.174" id="f4bf94ba-6620-4d14-af60-626e8499ac22" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_giback" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_ent_giback" />
       </sshConfig>
+      <sshConfig host="54.180.144.246" id="7a3e2f84-b9a1-484a-aa7f-209a46bc2aac" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_1" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="sales_ent_1" />
+      </sshConfig>
     </configs>
   </component>
 </application>
