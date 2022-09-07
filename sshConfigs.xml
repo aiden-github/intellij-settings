@@ -19,7 +19,7 @@
       <sshConfig host="3.36.115.237" id="4ed58ce0-0d60-4cb9-b52c-21161449f36c" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_client_server" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="laplus_client_server" />
       </sshConfig>
-      <sshConfig host="15.165.197.231" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user">
+      <sshConfig host="15.165.197.231" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_crawler" />
       </sshConfig>
       <sshConfig host="54.180.144.246" id="7a3e2f84-b9a1-484a-aa7f-209a46bc2aac" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_1" nameFormat="CUSTOM" username="ec2-user">
@@ -31,7 +31,7 @@
       <sshConfig host="3.39.233.174" id="f4bf94ba-6620-4d14-af60-626e8499ac22" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_giback" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="sales_ent_giback" />
       </sshConfig>
-      <sshConfig host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\DEVIDEN\Dropbox (개인용)\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user">
+      <sshConfig host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_server" />
       </sshConfig>
     </configs>
