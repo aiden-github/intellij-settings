@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="193.122.125.159" id="2fcb269c-5ed1-4cc8-a7e7-cadd2eb079b1" keyPath="C:\Users\hyeok\Dropbox\개인\Project\homemate2\oci_homemate.key" port="22" customName="_homemate" nameFormat="CUSTOM" username="ubuntu">
+      <sshConfig host="193.122.125.159" id="2fcb269c-5ed1-4cc8-a7e7-cadd2eb079b1" keyPath="C:\Users\hyeok\Dropbox\개인\Project\homemate2\oci_homemate.key" port="22" customName="_homemate" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
         <option name="customName" value="_homemate" />
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="3.39.15.38" id="60945133-7f2a-4289-89bc-49b183423c5e" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_crawler" nameFormat="CUSTOM" username="ec2-user">
@@ -22,8 +22,8 @@
       <sshConfig host="15.165.197.231" id="92f35c6e-f719-43f3-8f58-a38d7898e366" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_crawler" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="sales_crawler" />
       </sshConfig>
-      <sshConfig host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\DEVIDEN\Dropbox (개인용)\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user">
-        <option name="customName" value="sales_server" />
+      <sshConfig host="54.180.144.246" id="7a3e2f84-b9a1-484a-aa7f-209a46bc2aac" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_1" nameFormat="CUSTOM" username="ec2-user">
+        <option name="customName" value="sales_ent_1" />
       </sshConfig>
       <sshConfig host="3.35.0.167" id="3f6ec582-859b-4eea-96e1-233f3eb8f01d" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_cv3" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="sales_ent_cv3" />
@@ -31,8 +31,8 @@
       <sshConfig host="3.39.233.174" id="f4bf94ba-6620-4d14-af60-626e8499ac22" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_giback" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="sales_ent_giback" />
       </sshConfig>
-      <sshConfig host="54.180.144.246" id="7a3e2f84-b9a1-484a-aa7f-209a46bc2aac" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_ent_1" nameFormat="CUSTOM" username="ec2-user">
-        <option name="customName" value="sales_ent_1" />
+      <sshConfig host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\DEVIDEN\Dropbox (개인용)\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user">
+        <option name="customName" value="sales_server" />
       </sshConfig>
     </configs>
   </component>
