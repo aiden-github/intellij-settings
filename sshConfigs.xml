@@ -10,7 +10,7 @@
       <sshConfig host="3.36.98.88" id="453973a8-b398-4ca6-9077-2c43e9713ca7" keyPath="C:\Users\DEVIDEN\Dropbox (개인용)\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_notifier" nameFormat="CUSTOM" username="ec2-user">
         <option name="customName" value="labangba_notifier" />
       </sshConfig>
-      <sshConfig host="52.78.177.92" id="6f87fdf4-da2d-4f84-be91-7a3ded84f732" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_server" nameFormat="CUSTOM" username="ec2-user">
+      <sshConfig host="52.78.177.92" id="6f87fdf4-da2d-4f84-be91-7a3ded84f732" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="labangba_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="labangba_server" />
       </sshConfig>
       <sshConfig host="3.35.9.96" id="79173407-ad61-4a4d-b127-6d74a114da4f" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="laplus_admin_server" nameFormat="CUSTOM" username="ec2-user">
@@ -34,7 +34,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_server" />
       </sshConfig>
-      <sshConfig host="3.38.99.80" id="f2b036fe-fa65-41bc-a45a-90a92c238cd6" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="ecom_toy" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+      <sshConfig host="13.125.101.177" id="9444ee88-e45b-4dfa-85d2-1e96e97c61ee" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="ecom_toy" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="ecom_toy" />
       </sshConfig>
     </configs>
