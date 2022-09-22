@@ -34,6 +34,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ec2-15-165-184-218.ap-northeast-2.compute.amazonaws.com" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_server" />
       </sshConfig>
+      <sshConfig host="3.38.99.80" id="f2b036fe-fa65-41bc-a45a-90a92c238cd6" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="ecom_toy" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+        <option name="customName" value="ecom_toy" />
+      </sshConfig>
     </configs>
   </component>
 </application>
