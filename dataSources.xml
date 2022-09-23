@@ -28,5 +28,12 @@
       <jdbc-url>jdbc:mysql://labangba-r1.cumhrjugrw1n.ap-northeast-2.rds.amazonaws.com:3306/labangba</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="ecom_toy" uuid="c1e5a7db-af19-4ec1-8a65-1f2bc6e4e439">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://13.125.101.177:3306/ecom_toy</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
