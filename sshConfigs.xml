@@ -34,7 +34,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="15.165.184.218" id="997be1dd-e014-4062-9cb1-192303968ec0" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="sales_server" />
       </sshConfig>
-      <sshConfig host="13.125.101.177" id="9444ee88-e45b-4dfa-85d2-1e96e97c61ee" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="ecom_toy" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
+      <sshConfig host="43.201.6.212" id="9444ee88-e45b-4dfa-85d2-1e96e97c61ee" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="ecom_toy" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
         <option name="customName" value="ecom_toy" />
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="15.165.157.39" id="ea2d635f-1f7d-4a40-9699-4396e14e482a" keyPath="C:\Users\hyeok\Dropbox\CV3\p1_라방바\cv3-master.pem" port="22" customName="sales_server_ext" nameFormat="CUSTOM" username="ec2-user" useOpenSSHConfig="true">
