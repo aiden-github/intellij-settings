@@ -8,7 +8,6 @@
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/gsshop.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/himart.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/hmall.js" value="JavaScript" />
-    <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/interpark_old.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/kakao.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/live11.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/live24_etc.js" value="JavaScript" />
@@ -20,5 +19,6 @@
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/sauce.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/ssg.js" value="JavaScript" />
     <file url="file://$USER_HOME$/Desktop/projects/labangba_crawler3/crawlers_lb/vogo.js" value="JavaScript" />
+    <file url="file://$USER_HOME$/Desktop/projects/sales_crawler/checkers/sauce.js" value="JavaScript" />
   </component>
 </application>
